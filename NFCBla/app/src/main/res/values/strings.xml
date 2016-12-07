@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NFCBla</string>
+    <string name="read_tag">Read tag</string>
+    <string name="write_tag">Write tag</string>
 </resources>
